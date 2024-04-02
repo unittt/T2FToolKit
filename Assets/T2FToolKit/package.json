@@ -1,19 +1,19 @@
 {
-    "name": "com.tap2fun.toolkit",
-    "displayName": "T2FToolKit",
-    "version": "1.0.0",
-    "unity": "2021.3",
-    "description": "广告sdk",
-    "author": {
-        "name": "tap2fun",
-        "url": "https://www.tap2fun.cn/html/zh/aboutUs.html"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/unittt/Toolkit.git"
-    },
-    "relatedPackages": {},
-    "dependencies": {
-        "com.unity.modules.unitywebrequest": "1.0.0"
-    }
+  "name": "com.tap2fun.toolkit",
+  "version": "7.0.10",
+  "unity": "2021.3",
+  "displayName": "T2FToolKit",
+  "description": "广告接入.",
+  "keywords": [
+    "tap2fun",
+    "toolkit"
+  ],
+
+
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.2d.animation@7.0/manual/index.html",
+  "repository": {
+    "url": "https://github.com/unittt/T2FToolKit",
+    "type": "git",
+    "revision": "1.0.0"
+  }
 }
