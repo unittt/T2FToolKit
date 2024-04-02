@@ -1,0 +1,19 @@
+{
+    "name": "com.tap2fun.toolkit",
+    "displayName": "T2FToolKit",
+    "version": "1.0.0",
+    "unity": "2021.3",
+    "description": "广告sdk",
+    "author": {
+        "name": "tap2fun",
+        "url": "https://www.tap2fun.cn/html/zh/aboutUs.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/unittt/Toolkit.git"
+    },
+    "relatedPackages": {},
+    "dependencies": {
+        "com.unity.modules.unitywebrequest": "1.0.0"
+    }
+}
