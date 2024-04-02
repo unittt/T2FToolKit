@@ -1,15 +1,12 @@
 {
+  "displayName": "tap2fun toolkit",
   "name": "com.tap2fun.toolkit",
-  "displayName": "YooAsset",
   "version": "0.0.1",
-   "unity": "2019.4",
+  "unity": "2021.3",
+  "description": "tap2fun 工具",
 
-    "author": {
-        "name": "TuYoo Games",
-        "url": "https://github.com/tuyoogame/YooAsset"
-    },
-	 "repository": {
-        "type": "git",
-        "url": "https://github.com/unittt/T2FToolKit"
-    },
+  "repository": {
+    "url": "https://github.com/unittt/T2FToolKit",
+    "type": "git"
+  }
 }
